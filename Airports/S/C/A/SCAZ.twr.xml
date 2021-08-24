@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyList>
-  <tower>
-    <twr>
-      <lon>-54.48193565</lon>    
-      <lat>-068.94262764</lat>      
-      <elev-m>32</elev-m>   
-    </twr>
-  </tower>
+	<tower>
+		<twr>
+			<lon>-68.94262764</lon>
+			<lat>-54.48193565</lat>
+			<elev-m>25</elev-m>
+		</twr>
+	</tower>
 </PropertyList>
